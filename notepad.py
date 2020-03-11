@@ -1,6 +1,6 @@
 import re
 
-busca = ('palavra_para_busca')
+busca = (']0100')
 
 count = 0
 
